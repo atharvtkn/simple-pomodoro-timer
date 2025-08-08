@@ -13,9 +13,6 @@ A modern Pomodoro timer built in Python with **CustomTkinter** and **Matplotlib*
 ✅ Beautiful matplotlib charts of your productivity  
 ✅ Sound alerts when sessions end  
 
-## Screenshot
-![App Screenshot](preview.png)
-
 ## Installation
 ```bash
 pip install -r requirements.txt
@@ -25,3 +22,6 @@ pip install -r requirements.txt
 ```bash
 python maingui.py
 ```
+
+## Screenshot
+![App Screenshot](preview.png)
