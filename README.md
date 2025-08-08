@@ -15,6 +15,8 @@ A modern Pomodoro timer built in Python with **CustomTkinter** and **Matplotlib*
 
 ## Installation
 ```bash
+git clone https://github.com/atharvtkn/simple-pomodoro-timer.git
+cd simple-pomodoro-timer
 pip install -r requirements.txt
 ```
 
